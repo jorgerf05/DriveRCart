@@ -8,7 +8,6 @@ from machine import Pin, PWM
 from time import sleep
 import dht
 
-
 def control(data):
     distancia = sensor.distance_cm()
     print(distancia)
