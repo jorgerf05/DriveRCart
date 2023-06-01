@@ -12,3 +12,7 @@ ESP32 WiFI Module.
 ### Dependencies
 - An IDE that supports MicroPython, such as Pycharm
 - Python >= 3.10
+
+### References
+This project wouldn´t be possible without Rui and Sara Santos, from Random Nerd Tutorials (https://randomnerdtutorials.com/). Be sure to 
+check their webpage if you are interested in building more MicroPython tools! :)
